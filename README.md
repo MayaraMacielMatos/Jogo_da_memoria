@@ -1,5 +1,7 @@
 # Jogo da memória 🎭
 
+Jogo da mémoria desenvolvido em JavaScript
+
 [![Jogo da memoria](https://i.imgur.com/gmVB3NF.png "Jogo da memoria")](https:// "Jogo da memoria")
 
 Desenvolvido a partir da aula ministrada por Gabriela Pinheiro disponibilizado no portal de estudos da Digital Inovation One - "Desenvolvendo um jogo da memória".
